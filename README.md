@@ -48,7 +48,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://allesonsales.github.io/nft-preview-card-component-main/](https://allesonsales.github.io/nft-preview-card-component-main/)
+- Live Site URL: [https://allesonsales.github.io/nft-preview-card-component-main/](https://allesonsales.github.io/huddle-landing-page/)
 
 ## Author
 
